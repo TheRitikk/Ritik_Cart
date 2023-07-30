@@ -1,0 +1,3 @@
+Django Admin->
+ID -> ritik
+Password -> 1234
